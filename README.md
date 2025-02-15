@@ -11,10 +11,14 @@ One interesting aspect of this project is the performance comparison between Web
 
 - **Go**: Handles the image resizing logic and is compiled into a WASM module.
 - **React**: Used to build the frontend interface and call the WASM module for image processing.
-- **WASM (WebAssembly)**: Compiles the Go code into a browser-executable format.
+- **WebAssembly(WASM)**: Compiles the Go code into a browser-executable format.
 - **HTML5 Canvas**: Used to display and manipulate images.
 
-## Features
+## Demo
+
+You can explore a live demo of the Web Image Resizer Clone at the following link:
+
+- [Web Image Resizer Demo](https://web-image-resizer.vercel.app/)
 
 - Choose desired image dimensions
 - Real-time display of resized images
