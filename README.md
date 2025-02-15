@@ -20,6 +20,8 @@ You can explore a live demo of the Web Image Resizer Clone at the following link
 
 - [Web Image Resizer Demo](https://web-image-resizer.vercel.app/)
 
+Features:
+
 - Choose desired image dimensions
 - Real-time display of resized images
 - All image processing operations are done client-side, no server support needed
