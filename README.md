@@ -27,6 +27,14 @@ Features:
 - All image processing operations are done client-side, no server support needed
 - Compare the performance of JavaScript vs. WebAssembly
 
+## WebAssembly Module
+
+The WebAssembly module used in this project is developed separately and can be found here:
+
+- [WASM Image Tool](https://github.com/yuelone/wasm-image-tool)
+
+This module, written in Go, provides the core image resizing logic and is compiled into a WASM file that is used in this project.
+
 ## Installation & Running
 
 ```bash
