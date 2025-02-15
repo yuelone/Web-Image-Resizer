@@ -16,7 +16,7 @@ One interesting aspect of this project is the performance comparison between Web
 
 ## Demo
 
-You can explore a live demo of the Web Image Resizer Clone at the following link:
+You can explore a live demo of the Web Image Resizer at the following link:
 
 - [Web Image Resizer Demo](https://web-image-resizer.vercel.app/)
 
